@@ -1,5 +1,5 @@
 function App() {
-  return <p>Hello</p>;
+  return <p>Hello ignite</p>;
 }
 
 export default App;
